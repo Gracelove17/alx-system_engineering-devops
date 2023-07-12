@@ -1,0 +1,1 @@
+Creating scripts that creates aliases, prints, add an action, counts number of directories in a path, listing enviornment variables, listing all local variables, creating new global variable and converting numbers from base 2 to base 10.
